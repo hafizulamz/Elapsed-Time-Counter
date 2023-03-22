@@ -1,3 +1,8 @@
+#Created by: Prof. Hafizul Abdullah
+#Created on: 7:17 AM 23/3/2023
+#ref 1: https://pynative.com/python-get-execution-time-of-program/
+#ref 2: https://stackoverflow.com/questions/1557571/how-do-i-get-time-of-a-python-programs-execution
+
 import time
 from utils.runner import run
 
